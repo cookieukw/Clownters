@@ -16,7 +16,6 @@
 
 - **Situação sobre a covid19**
 
-
 ## 𝘾𝙤𝙢𝙖𝙣𝙙𝙤𝙨 para instalação no Termux
 ```
 pkg update -y && pkg upgrade -y
